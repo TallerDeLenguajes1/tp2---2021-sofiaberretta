@@ -9,6 +9,7 @@ int main(){
     for(f = 0; f<N; f++) {
         for(f = 0;f<N; f++) {
             printf("%lf ", mt[f][c]);
+            
         }
     printf("\n");
     }
